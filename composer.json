@@ -1,0 +1,16 @@
+{
+    "name": "shopeo/se-subscribe",
+    "autoload": {
+        "psr-4": {
+            "Shopeo\\SeSubscribe\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SHOPEO",
+            "email": "hello@shopeo.cn",
+            "homepage": "https://shopeo.cn"
+        }
+    ],
+    "require": {}
+}
